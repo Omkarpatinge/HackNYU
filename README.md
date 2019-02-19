@@ -1,5 +1,6 @@
 # hack-nyu
 This repository contains the code for <b>problem-overflow</b> platform developed [@hack-nyu](https://hacknyu.org/)
+<a href="https://devpost.com/software/project-overflow">More details</a>
 
 ## [![Video](https://img.youtube.com/vi/b34PgqB8Juo/0.jpg)](https://www.youtube.com/watch?v=b34PgqB8Juo)
 
